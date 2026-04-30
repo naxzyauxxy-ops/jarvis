@@ -1,0 +1,23 @@
+# Core & UI
+PyQt6
+pyautogui
+pydirectinput
+python-dotenv
+
+# AI & APIs
+openai
+ollama
+elevenlabs
+chromadb
+langchain
+
+# Integrations
+pyTelegramBotAPI
+spotipy
+obs-websocket-py
+duckduckgo-search
+playwright
+
+# System
+psutil
+pyinstaller
